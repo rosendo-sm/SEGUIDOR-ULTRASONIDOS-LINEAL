@@ -1,2 +1,2 @@
 # SEGUIDOR-ULTRASONIDOS-LINEAL
-Seguidor de obstáculo lineal con sensor de ultrasonidos
+Seguidor lineal de objeto a distancia fiha con sensor de ultrasonidos
