@@ -1,0 +1,4 @@
+Descripción del montaje
+Se trata de un servomecanismo accionado por un motorreductor que mantiene un sensor de ultrasonidos a una distancia fija de 6cm respecto a un obstáculo. Si esta distancia varía, el programa ejecutado en Arduino accionará un motor a derechas o izquierdas para corregir la distancia hasta alcanzar nuevamente los 6cm y da un pitido de una décima de segundo. El sensor de ultrasonidos, pinchado en una protoboard, se desplaza sobre una guía de cajón de bolas.
+
+

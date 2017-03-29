@@ -1,0 +1,10 @@
+Listado de componentes:
+1 Placa Arduino Uno
+1 Motorreductor 3-6V DC
+1 Módulo L9110 H-bridge o similar
+1 Sensor de ultrasonidos HC-04
+1 Zumbador piezoeléctrico activo 5V
+1 Protoboard mini
+Cables conexionado rápido M-M y M-H
+
+
